@@ -1,0 +1,1 @@
+Rscript /Users/usuario/Desktop/Observatorio/Twitter/ProgramasenR/Limpiador-Manzana-app/LimpiadorBaseManza.R
